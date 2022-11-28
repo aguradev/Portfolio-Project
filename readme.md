@@ -30,5 +30,5 @@ This project is the result of the final exam for the Basic Learning Web Programm
 
 ## Artaiment.org
 ![artaiment.org](/image/artaiment.org.png)
-This project from my last place i work, is about to company profile website.
+The project from where I last worked, this website contains a company profile using Laravel Blade as a frontend.
 - **Live Preview** : https://artainment.org/
